@@ -97,7 +97,7 @@ st.set_page_config(page_title="PragyanAI Video Creator", layout="wide")
 
 # Display logo if it exists
 if os.path.exists("spiderman.png"):
-    st.image("spiderman.png")
+    st.image("toppng.com-spider-man-png-clipart-spiderman-377x601.png")
 
 st.title("PragyanAI - Multimedia Merger")
 st.markdown("Upload multiple images, specify timing, and add audio from a file or YouTube.")
