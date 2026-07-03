@@ -96,7 +96,7 @@ def create_video(image_files, duplicate_count, fps, audio_path):
 st.set_page_config(page_title="PragyanAI Video Creator", layout="wide")
 
 # Display logo if it exists
-if os.path.exists("spiderman.png"):
+if os.path.exists("toppng.com-spider-man-png-clipart-spiderman-377x601.png"):
     st.image("toppng.com-spider-man-png-clipart-spiderman-377x601.png")
 
 st.title("SPIDEY- Multimedia Merger")
